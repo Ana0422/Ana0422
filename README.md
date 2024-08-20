@@ -1,7 +1,4 @@
 -  Hi, I’m Ananya
--  I’m interested in Python development
--  I’m currently learning Data Science.
--  I’m looking to collaborate on front end projects and python projects.
 -  How to reach me : ananyakashyap0412@gmail.com
 
 <!---
